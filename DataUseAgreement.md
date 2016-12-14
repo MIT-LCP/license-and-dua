@@ -1,6 +1,6 @@
 # MIMIC Clinical Database Restricted Data Use Agreement
 
-## Version 1.0.0
+## Version 1.1.0
 
 The contents of the MIMIC Clinical Databases were derived from original data that contained protected health information (PHI), as defined by HIPAA. The providers of the data have given scrupulous attention to the task of locating and removing all PHI, so that the remaining data can be considered de-identified and therefore not subject to the HIPAA Privacy Rule restrictions on sharing PHI. Nevertheless, because of the richness and detail of the MIMIC databases, they will be released only to legitimate researchers under the terms and conditions described on this page.
 
