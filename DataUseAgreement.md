@@ -17,4 +17,29 @@ If I am granted access to the MIMIC Clinical Databases, I agree to the terms and
 7. I have completed a training program in human research subject protections and HIPAA regulations, and I am submitting proof of having done so.
 8. This agreement may be terminated by either party at any time, but my obligations with respect to restricted data from PhysioNet shall continue after termination.
 
+My name: 
+My PhysioNetWorks username: 
+Telephone number, including country/area code (required): 
+Institution: 
+Title or position: 
+Street address: 
+City: 
+State/Province: 
+ZIP/postal code: 
+Country: 
 
+Name of human studies training course completed: 
+Date completed: 
+
+* Supervisor's name: 
+* Supervisor's telephone number: 
+* Supervisor's email address: 
+* Supervisor's title: 
+(* information required for students and postdocs)
+
+General research area for which the data will be used: 
+
+Date of this agreement: 
+
+[ ] I have attached a certificate of completion of a human subjects
+protections course.
