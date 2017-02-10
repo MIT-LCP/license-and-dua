@@ -2,7 +2,7 @@
 
 ## Version 1.3.0
 
-The contents of the PhysioNet Clinical Databases are derived from original data that contained protected health information (PHI), as defined by HIPAA. The providers of the data have given scrupulous attention to the task of locating and removing all PHI, so that the remaining data can be considered de-identified and therefore not subject to the HIPAA Privacy Rule restrictions on sharing PHI. Nevertheless, because of the richness and detail of the databases, they will be released only to legitimate researchers under the terms and conditions described on this page.
+The contents of PhysioNet Clinical Databases were derived from original data that contained protected health information (PHI), as defined by HIPAA. The providers of the data have given scrupulous attention to the task of locating and removing all PHI, so that the remaining data can be considered de-identified and therefore not subject to the HIPAA Privacy Rule restrictions on sharing PHI. Nevertheless, because of the richness and detail of the databases, they will be released only to legitimate researchers under the terms and conditions described on this page.
 
 If you agree to all of these terms and conditions, access to restricted information within the PhysioNet Clinical Databases may be granted to you as an individual. Your colleagues may obtain access to these data as individuals via the same procedure you are following.
 
