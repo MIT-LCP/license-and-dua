@@ -8,7 +8,7 @@ If you agree to all of these terms and conditions, access to restricted informat
 
 If I am granted access to the PhysioNet Clinical Databases, I agree to the terms and conditions below:
 
-1. I will not attempt to identify any individual referenced in restricted data from PhysioNet.  
+1. I will not attempt to identify any individual or institution referenced in restricted data from PhysioNet.  
 2. I will exercise all reasonable and prudent care to avoid disclosure of the identity of any individual referenced in restricted data from PhysioNet in any publication or other communication.  
 3. I will not share access to restricted data from PhysioNet with anyone else. 
 4. I will exercise all reasonable and prudent care to maintain the physical and electronic security of restricted data from PhysioNet.  
