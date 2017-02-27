@@ -8,7 +8,7 @@ Copyright (c) 2016 MIT Laboratory for Computational Physiology
 
 The MIT Laboratory for Computational Physiology (MIT-LCP) wishes 
 to make data available for research and educational purposes to 
-qualified requestors, but only if the data is used and protected 
+qualified requestors, but only if the data are used and protected 
 in accordance with the terms and conditions stated in this License
 
 It is hereby agreed between the data requestor, hereinafter referred to
@@ -24,7 +24,7 @@ as the "LICENSEE", and MIT-LCP, that:
 9. The LICENSEE agrees to share any code associated with publications arising from this data on a defined PhysioNet repository (physionet.org/physiotools/repository/).  
 10. This agreement may be terminated by either party at any time, but the LICENSEE's obligations with respect to PhysioNet data shall continue after termination.  
 
-THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE DATA ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
