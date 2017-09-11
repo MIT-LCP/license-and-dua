@@ -1,6 +1,6 @@
 # PhysioNet Clinical Database Restricted Data Use Agreement
 
-## Version 1.4.0
+## Version 1.5.0
 
 The contents of restricted-access clinical databases maintained by PhysioNet were derived from original data that contained protected health information (PHI), as defined by HIPAA. The providers of the data have given scrupulous attention to the task of locating and removing all PHI, so that the remaining data can be considered de-identified and therefore not subject to the HIPAA Privacy Rule restrictions on sharing PHI. Nevertheless, because of the richness and detail of the databases, they will be released only to legitimate researchers under the terms and conditions described on this page.
 
