@@ -1,4 +1,4 @@
-# LCP Health Data License
+# PhysioNet Clinical Database Restricted License
 
 ## Version 1.4.0
 
