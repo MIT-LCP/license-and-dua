@@ -16,10 +16,9 @@ It is hereby agreed between the data requestor, hereinafter referred to as the "
 4. The LICENSEE will exercise all reasonable and prudent care to maintain the physical and electronic security of PhysioNet restricted data.
 5. If the LICENSEE finds information within PhysioNet restricted data that he or she believes might permit identification of any individual or institution, the LICENSEE will report the location of this information promptly by email to PHI-report@physionet.org, citing the location of the specific information in question.
 6. The LICENSEE will use the data for the sole purpose of lawful use in scientific research and no other.
-7. The LICENSEE will be responsible for ensuring that he or she maintains up to date certification in human research subject protection and HIPAA regulations.
-9. The LICENSEE agrees to share any code associated with publications arising from this data on a defined PhysioNet repository (physionet.org/content/repository/).
-10. The LICENSEE will refrain from submitting research based on the data to any publication other than Computing in Cardiology until after the challenge deadline.
-11. This agreement may be terminated by either party at any time, but the LICENSEE's obligations with respect to PhysioNet data shall continue after termination.
+7. The LICENSEE agrees to share any code associated with publications arising from this data on a defined PhysioNet repository.
+8. The LICENSEE will refrain from submitting research based on the data to any publication other than Computing in Cardiology until after the challenge deadline.
+9. This agreement may be terminated by either party at any time, but the LICENSEE's obligations with respect to PhysioNet data shall continue after termination.
 
 THE DATA ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
