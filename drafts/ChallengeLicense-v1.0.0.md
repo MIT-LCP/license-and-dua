@@ -1,18 +1,14 @@
-# PhysioNet/Computing in Cardiology Active Challenge License
+# PhysioNet Active Challenge License
 
 ## Version 1.0.0
 
-The PhysioNet/Computing in Cardiology Active Challenge License
+The PhysioNet Active Challenge License
 
 Copyright (c) <YEAR> MIT Laboratory for Computational Physiology
 
-The MIT Laboratory for Computational Physiology (MIT-LCP) wishes
-to make data available for research and educational purposes to
-qualified requestors, but only if the data are used and protected
-in accordance with the terms and conditions stated in this License
+The MIT Laboratory for Computational Physiology (MIT-LCP) wishes to make data available for its challenges to stimulate research and education, but only if the data are used and protected in accordance with the terms and conditions stated in this License.
 
-It is hereby agreed between the data requestor, hereinafter referred to
-as the "LICENSEE", and MIT-LCP, that:
+It is hereby agreed between the data requestor, hereinafter referred to as the "LICENSEE", and MIT-LCP, that:
 
 1. The LICENSEE will not attempt to identify any individual or institution referenced in PhysioNet restricted data.
 2. The LICENSEE will exercise all reasonable and prudent care to avoid disclosure of the identity of any individual or institution referenced in PhysioNet restricted data in any publication or other communication.
@@ -23,9 +19,7 @@ as the "LICENSEE", and MIT-LCP, that:
 7. The LICENSEE will be responsible for ensuring that he or she maintains up to date certification in human research subject protection and HIPAA regulations.
 9. The LICENSEE agrees to share any code associated with publications arising from this data on a defined PhysioNet repository (physionet.org/content/repository/).
 10. The LICENSEE will refrain from submitting research based on the data to any publication other than Computing in Cardiology until after the challenge deadline.
-11. The LICENSEE will not post preprints of their work and/or post the data on any public machine/site, or share the data privately with non-team members.
-12. The LICENSEE will not work with any other team that enters the Challenge or intends to enter the Challenge.
-13. This agreement may be terminated by either party at any time, but the LICENSEE's obligations with respect to PhysioNet data shall continue after termination.
+11. This agreement may be terminated by either party at any time, but the LICENSEE's obligations with respect to PhysioNet data shall continue after termination.
 
 THE DATA ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
