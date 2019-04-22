@@ -1,8 +1,6 @@
-# PhysioNet Active Challenge License
+# PhysioNet Active Challenge Data Use Agreement
 
 ## Version 1.0.0
-
-The PhysioNet Active Challenge License
 
 The MIT Laboratory for Computational Physiology (MIT-LCP) wishes to make data available for its challenges to stimulate research and education, but only if the data are used and protected in accordance with the terms and conditions stated in this License.
 
