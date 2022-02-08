@@ -21,19 +21,19 @@ If I am granted access to the PhysioNet Clinical Databases, I agree to the terms
   
 ---  
 
-My name:  
-My PhysioNetWorks username:  
-Telephone number, including country/area code (required):  
-Institution:  
-Title or position:  
+My name:  Juan Fu
+My PhysioNetWorks username:  baba196325
+Telephone number, including country/area code (required):  China，18038866013
+Institution:  Foshan First People 's Hospital
+Title or position:  Doctor
 Street address:  
-City:  
-State/Province:  
-ZIP/postal code:  
-Country:  
+City:  Foshan
+State/Province:  Guangdong
+ZIP/postal code:  528000
+Country:  China
   
-Name of human studies training course completed:  
-Date completed:  
+Name of human studies training course completed:  Stage 1 - Basic Course
+Date completed:  30-Dec-2021
   
 * Supervisor's name:   
 * Supervisor's telephone number:  
@@ -41,11 +41,12 @@ Date completed:
 * Supervisor's title:  
 (* information required for students and postdocs)   
   
-General research area for which the data will be used:   
+General research area for which the data will be used:   clinical
   
-Date of this agreement:   
+Date of this agreement:   8-Feb-2022
   
 [ ] I have attached a certificate of completion of a human subjects
 protections course. 
 
----    
+---   [citiCompletionReport10773512.pdf](https://github.com/MIT-LCP/license-and-dua/files/8023945/citiCompletionReport10773512.pdf)
+ 
